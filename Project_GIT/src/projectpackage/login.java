@@ -15,7 +15,9 @@ public class login {
 
 	}
 	public void Jump() {
+		System.out.println("i am jumping now");
 		d.getTitle();
+		
 		
 }
 }
